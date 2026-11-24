@@ -1,0 +1,16 @@
+### Sistema operativo y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+### Dependencias y variables de entorno
+node_modules/
+.env
+.env.*
+!.env.example
+
+### Salidas de compilación
+ dist/
+ build/
+coverage/

@@ -1,0 +1,20 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #172033;
+  background: #f5f7fb;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+.site-header { padding: 1.5rem clamp(1rem, 5vw, 4rem); background: #111827; color: #fff; }
+.brand { color: #fff; font-size: 1.5rem; font-weight: 700; text-decoration: none; }
+.site-header p { margin-bottom: 0; color: #cbd5e1; }
+.container { width: min(1100px, 90%); margin: 3rem auto; }
+.welcome { margin-bottom: 2rem; }
+.welcome h1 { margin-bottom: .5rem; }
+.overview { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.card { padding: 1.5rem; border: 1px solid #e2e8f0; border-radius: 1rem; background: #fff; box-shadow: 0 8px 24px rgb(15 23 42 / 5%); }
+.card h2 { margin-top: 0; }
+.site-footer { padding: 1.5rem; color: #64748b; text-align: center; }
+@media (max-width: 700px) { .overview { grid-template-columns: 1fr; } }
