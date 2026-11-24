@@ -13,6 +13,7 @@ Esta carpeta contiene perfiles de trabajo reutilizables para asistir el desarrol
 ## Agentes disponibles
 
 - `AGENT_PROJECT_MANAGER.md`: planificación, prioridades y seguimiento.
+- `AGENT_SOFTWARE_ARCHITECT.md`: arquitectura global y decisiones técnicas.
 - `AGENT_FRONTEND.md`: HTML, CSS y JavaScript del cliente.
 - `AGENT_BACKEND.md`: arquitectura del servidor y datos.
 - `AGENT_UI_UX.md`: diseño visual y experiencia de usuario.

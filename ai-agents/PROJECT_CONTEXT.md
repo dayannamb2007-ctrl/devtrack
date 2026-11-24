@@ -74,3 +74,4 @@ La persona está aprendiendo desarrollo de software y agradece explicaciones cla
 5. Respeta el alcance solicitado y conserva el estilo existente salvo que se acuerde cambiarlo.
 6. Al finalizar una tarea, resume archivos modificados, pruebas realizadas y próximos pasos.
 7. Si una decisión técnica cambia, actualiza DECISIONS.md; si cambia el progreso, actualiza TASKS.md.
+8. El agente de arquitectura puede recomendar estándares y límites técnicos, pero no debe imponer migraciones ni nuevas dependencias sin explicar sus beneficios, costos y pedir aprobación.
